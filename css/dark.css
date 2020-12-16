@@ -329,8 +329,8 @@
 
 @font-face {
     font-family: FontAwesome;
-    src: url(/assets/fonts/fontawesome-webfont.eot?v=4.3.0);
-    src: url(/assets/fonts/fontawesome-webfont.eot?#iefix&v=4.3.0) format('embedded-opentype'), url(/assets/fonts/fontawesome-webfont.woff2?v=4.3.0) format('woff2'), url(/assets/fonts/fontawesome-webfont.woff?v=4.3.0) format('woff'), url(/assets/fonts/fontawesome-webfont.ttf?v=4.3.0) format('truetype'), url(/assets/fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular) format('svg');
+    src: url(./assets/fonts/fontawesome-webfont.eot?v=4.3.0);
+    src: url(./assets/fonts/fontawesome-webfont.eot?#iefix&v=4.3.0) format('embedded-opentype'), url(./assets/fonts/fontawesome-webfont.woff2?v=4.3.0) format('woff2'), url(./assets/fonts/fontawesome-webfont.woff?v=4.3.0) format('woff'), url(./assets/fonts/fontawesome-webfont.ttf?v=4.3.0) format('truetype'), url(./assets/fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular) format('svg');
     font-weight: 400;
     font-style: normal
 }
@@ -2970,66 +2970,66 @@ img {
 
 @font-face {
     font-family: rajdhani-light-webfont;
-    src: url(/assets/fonts/rajdhani-light-webfont.woff) format("woff")
+    src: url(./assets/fonts/rajdhani-light-webfont.woff) format("woff")
 }
 
 @font-face {
     font-family: rajdhani-medium-webfont;
-    src: url(/assets/fonts/rajdhani-medium-webfont.woff) format("woff")
+    src: url(./assets/fonts/rajdhani-medium-webfont.woff) format("woff")
 }
 
 @font-face {
     font-family: rajdhani-semibold-webfont;
-    src: url(/assets/fonts/rajdhani-semibold-webfont.woff) format("woff")
+    src: url(./assets/fonts/rajdhani-semibold-webfont.woff) format("woff")
 }
 
 @font-face {
     font-family: Roboto;
-    src: url(/assets/fonts/Roboto-Thin-webfont-100.woff) format("woff");
+    src: url(./assets/fonts/Roboto-Thin-webfont-100.woff) format("woff");
     font-weight: 100
 }
 
 @font-face {
     font-family: Roboto;
-    src: url(/assets/fonts/Roboto-Light-webfont-300.woff) format("woff");
+    src: url(./assets/fonts/Roboto-Light-webfont-300.woff) format("woff");
     font-weight: 300
 }
 
 @font-face {
     font-family: Roboto;
-    src: url(/assets/fonts/Roboto-Regular-webfont-400.woff) format("woff");
+    src: url(./assets/fonts/Roboto-Regular-webfont-400.woff) format("woff");
     font-weight: 400
 }
 
 @font-face {
     font-family: Roboto;
-    src: url(/assets/fonts/Roboto-Italic-webfont-400.woff) format("woff");
+    src: url(./assets/fonts/Roboto-Italic-webfont-400.woff) format("woff");
     font-weight: 400;
     font-style: italic
 }
 
 @font-face {
     font-family: Roboto;
-    src: url(/assets/fonts/Roboto-Medium-webfont-500.woff) format("woff");
+    src: url(./assets/fonts/Roboto-Medium-webfont-500.woff) format("woff");
     font-weight: 500
 }
 
 @font-face {
     font-family: Roboto;
-    src: url(/assets/fonts/Roboto-MediumItalic-webfont-500.woff) format("woff");
+    src: url(./assets/fonts/Roboto-MediumItalic-webfont-500.woff) format("woff");
     font-weight: 500;
     font-style: italic
 }
 
 @font-face {
     font-family: Roboto;
-    src: url(/assets/fonts/Roboto-Bold-webfont-700.woff) format("woff");
+    src: url(./assets/fonts/Roboto-Bold-webfont-700.woff) format("woff");
     font-weight: 700
 }
 
 @font-face {
     font-family: Roboto;
-    src: url(/assets/fonts/Roboto-BoldItalic-webfont-700.woff) format("woff");
+    src: url(./assets/fonts/Roboto-BoldItalic-webfont-700.woff) format("woff");
     font-weight: 700;
     font-style: italic
 }
@@ -9495,7 +9495,7 @@ label {
 }
 
 .rlg-item__paint.--painted-set {
-    background-image: url(/assets/images/icons/painted-set.png);
+    background-image: url(./assets/images/icons/painted-set.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border: 1px solid rgba(255, 255, 255, .5);
@@ -11683,7 +11683,7 @@ html {
 .rlg-sidebar-advertisement .rlg-sidebar-advertisement-replacement {
     width: 200px;
     height: 600px;
-    background-image: url(/assets/images/banner/royaleplacement.png);
+    background-image: url(./assets/images/banner/royaleplacement.png);
     background-position: 50% 50%;
     background-size: cover;
     margin: auto;
@@ -13924,7 +13924,7 @@ body.noscroll {
 
 li.icon-result-paint-14::before {
     text-transform: uppercase;
-    background-image: url(/assets/images/icons/painted-set.svg);
+    background-image: url(./assets/images/icons/painted-set.svg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border: 0 solid rgba(255, 255, 255, .9);
@@ -14253,7 +14253,7 @@ select.rlg-filter__platforms option:checked {
 .rlg-home-news-second .rlg-home-news-small .rlg-home-news-small-content {
     width: 100%;
     height: 100%;
-    background: url(/assets/images/news/small-news-spots.png) rgba(255, 255, 255, .7);
+    background: url(./assets/images/news/small-news-spots.png) rgba(255, 255, 255, .7);
     position: relative;
     z-index: 1000;
     transition: all .2s ease-in-out
@@ -16836,7 +16836,7 @@ select.rlg-filter__platforms option:checked {
 }
 
 .rlg-knockout-iframe .rlg-knockout-column:last-of-type::after {
-    background-image: url(/assets/images/logos/rocket_royale_logo.png)!important
+    background-image: url(./assets/images/logos/rocket_royale_logo.png)!important
 }
 
 .rlg-knockout-iframe .rlg-knockout-column .rlg-knockout-game .rlg-knockout-teams .rlg-knockout-team {
@@ -17011,7 +17011,7 @@ select.rlg-filter__platforms option:checked {
 }
 
 .rlg-livefeed-sidebar .rlg-livefeed-social-link .icon.twitter {
-    background-image: url(/assets/images/icons/twitter_icon.png)
+    background-image: url(./assets/images/icons/twitter_icon.png)
 }
 
 .rlg-body-tirl p {
@@ -18475,7 +18475,7 @@ select.rlg-filter__platforms option:checked {
     width: 34px;
     top: 15px;
     right: 15px;
-    background-image: url(/assets/images/icons/tradelock.png);
+    background-image: url(./assets/images/icons/tradelock.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -18504,7 +18504,7 @@ select.rlg-filter__platforms option:checked {
     letter-spacing: 1.2px;
     font-size: 16px;
     line-height: 26px;
-    background-image: url(/assets/images/icons/tradelock.png);
+    background-image: url(./assets/images/icons/tradelock.png);
     background-repeat: no-repeat;
     background-position: right 16px center;
     background-size: contain
@@ -18781,7 +18781,7 @@ select.rlg-filter__platforms option:checked {
 
 .rlg-items-item-rarity[data-platform=STEAM]::after {
     content: "";
-    background: url(/assets/images/logos/steam_white.svg) no-repeat;
+    background: url(./assets/images/logos/steam_white.svg) no-repeat;
     background-size: 100%;
     font-family: rajdhani-medium-webfont, Helvetica, sans-serif;
     font-style: normal;
@@ -18799,7 +18799,7 @@ select.rlg-filter__platforms option:checked {
 
 .rlg-items-item-rarity[data-platform=PS4]::after {
     content: "";
-    background: url(/assets/images/logos/psn_white.svg) no-repeat;
+    background: url(./assets/images/logos/psn_white.svg) no-repeat;
     background-size: 100%;
     font-family: rajdhani-medium-webfont, Helvetica, sans-serif;
     font-style: normal;
@@ -18813,7 +18813,7 @@ select.rlg-filter__platforms option:checked {
 
 .rlg-items-item-rarity[data-platform=XBOX]::after {
     content: "";
-    background: url(/assets/images/logos/xbox_white.svg) no-repeat;
+    background: url(./assets/images/logos/xbox_white.svg) no-repeat;
     background-size: 100%;
     font-family: rajdhani-medium-webfont, Helvetica, sans-serif;
     font-style: normal;
@@ -18827,7 +18827,7 @@ select.rlg-filter__platforms option:checked {
 
 .rlg-items-item-rarity[data-platform=SWITCH]::after {
     content: "";
-    background: url(/assets/images/logos/switch_white.svg) no-repeat;
+    background: url(./assets/images/logos/switch_white.svg) no-repeat;
     background-size: 100%;
     font-family: rajdhani-medium-webfont, Helvetica, sans-serif;
     font-style: normal;
@@ -20840,7 +20840,7 @@ select.rlg-filter__platforms option:checked {
 
 .rlg-royale-qualifiers .rlg-knockout-column:last-of-type::after {
     content: "";
-    background-image: url(/assets/images/logos/rocket-royale-qualifiers-small.png);
+    background-image: url(./assets/images/logos/rocket-royale-qualifiers-small.png);
     background-repeat: no-repeat;
     background-size: auto 31px;
     opacity: 1;
@@ -21370,7 +21370,7 @@ select.rlg-filter__platforms option:checked {
 }
 
 .rlg-proleague-banner {
-    background-image: url(/assets/images/backgrounds/rlc_proleague_background.png);
+    background-image: url(./assets/images/backgrounds/rlc_proleague_background.png);
     background-position: center center;
     background-size: cover;
     height: 120px;
@@ -21588,7 +21588,7 @@ select.rlg-filter__platforms option:checked {
 }
 
 .rlg-proleague-fixture.rlg-league-result {
-    background-image: url(/assets/images/backgrounds/rlc_proleague_background.png);
+    background-image: url(./assets/images/backgrounds/rlc_proleague_background.png);
     background-background-size: cover;
     background-background-position: bottom center;
     color: #31343f
@@ -23836,7 +23836,7 @@ body.appview .rlg-create-sidebar {
 
 .rlg-checkout__form #payment-method>#payment-methods>div#paywith-paypal {
     background-color: rgba(0, 0, 0, .2);
-    background-image: url(/assets/images/logos/paypal-light.svg);
+    background-image: url(./assets/images/logos/paypal-light.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: auto 25px;
